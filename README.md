@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/s0undt3ch">
+  <a href="https://github.com/MKLeb">
     <img src="https://github-profile-trophy.vercel.app/?username=MKLeb&theme=gruvbox" />
   </a>
 </p>
