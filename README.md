@@ -4,9 +4,6 @@
   <a href="https://github.com/MKLeb">
     <img height="250" src="https://github-readme-stats.vercel.app/api?username=MKLeb&count_private=true&show_icons=true&theme=react" />
   </a>
-  <a href="https://github.com/s0undt3ch">
-    <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=MKLeb&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
-  </a>
 </p>
 <p align="center">
   <a href="https://github.com/s0undt3ch">
